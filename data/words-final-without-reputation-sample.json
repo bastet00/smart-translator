@@ -1,0 +1,97 @@
+[
+    {
+        "Arabic": [
+            "(فعل مصدري) يرفع على عالي",
+            "رفعت"
+        ],
+        "ArabicAlphabet": "قاي",
+        "Egyptian": "qAi",
+        "Sign": "𓏏",
+        "Symbol": [
+            "A28",
+            "X1"
+        ],
+        "Translation": [
+            "(v. infinitive) be raised on high",
+            "uplifted"
+        ]
+    },
+    {
+        "Arabic": [
+            "(لاحقة prn.) أنا",
+            "أنا",
+            "لي"
+        ],
+        "ArabicAlphabet": "إ",
+        "Egyptian": "i",
+        "Sign": "𓀀",
+        "Symbol": [
+            "A1"
+        ],
+        "Translation": [
+            "(suffix prn.) I",
+            "me",
+            "my"
+        ]
+    },
+    {
+        "Arabic": [
+            "(اسم جماعي) رجل",
+            "الرجال",
+            "الجنس البشري",
+            "المصريون"
+        ],
+        "ArabicAlphabet": "رمث",
+        "Egyptian": "rmT",
+        "Sign": "𓀀",
+        "Symbol": [
+            "A1",
+            "A1",
+            "A1"
+        ],
+        "Translation": [
+            "(collective n.) man",
+            "men",
+            "mankind",
+            "Egyptians"
+        ]
+    },
+    {
+        "Arabic": [
+            "شرب"
+        ],
+        "ArabicAlphabet": "سور",
+        "Egyptian": "swr",
+        "Sign": "𓀁",
+        "Symbol": [
+            "A2"
+        ],
+        "Translation": [
+            "drink"
+        ]
+    },
+    {
+        "Arabic": [
+            "نقي",
+            "تطهير الذات",
+            "الإستحمام",
+            "تطهير",
+            "طهارة",
+            "نقاء"
+        ],
+        "ArabicAlphabet": "وعب",
+        "Egyptian": "wab",
+        "Sign": "𓀆",
+        "Symbol": [
+            "A6"
+        ],
+        "Translation": [
+            "pure ",
+            "puri fy one self",
+            "bathe",
+            "cleanse",
+            "purification",
+            "purity"
+        ]
+    }
+]
